@@ -11,4 +11,4 @@ TOP-RATED Shopify PLUS, Shopify E-commerce Expert.
 💬 Ask me about ReactJS, NextJS and NodeJs
 🌐 Find Me Online
 
-📫 You can reach me on <a href="https://www.linkedin.com/in/shubham-goel-web-developer/">Linkdin</a> OR <a href="https://www.upwork.com/freelancers/shubhamgoel785">Upwork</a>
+📫 You can reach me on <a href="https://www.linkedin.com/in/shubham-goel-web-developer/">Linkdin</a> OR <a href="https://www.upwork.com/freelancers/shubhamgoel">Upwork</a>
