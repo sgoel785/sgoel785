@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Shubham Goel 👋
 
-<!--
-**sgoel785/sgoel785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking for a Shopify and React expert who can fix problems that other developers cannot fix?
 
-Here are some ideas to get you started:
+TOP-RATED Shopify PLUS, Shopify E-commerce Expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 10000+ Hrs Experience on Upwork. 🏆 100% Job Success ratio. 🏆 1000 Successfully satisfied project outcomes.
+
+<h2 class="heading-element" dir="auto">💼 Professional Experience</h2>
+
+💬 Ask me about ReactJS, NextJS and NodeJs
+🌐 Find Me Online
+
+📫 You can reach me on <a href="https://www.linkedin.com/in/shubham-goel-web-developer/">Linkdin</a> OR <a href="https://www.upwork.com/freelancers/shubhamgoel785">Upwork</a>
